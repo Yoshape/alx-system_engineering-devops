@@ -1,2 +1,2 @@
 #!/bin/bash
-echon $(((BRETH**LOVE)))
+echon $((BRETH**LOVE))
